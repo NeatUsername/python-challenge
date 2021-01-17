@@ -1,0 +1,7 @@
+Financial Analysis
+--------------------
+Total Months:  86
+Net Profit & Loss:  $38,382,578
+Average Month Change:  $-2,315.12
+Greatest Increase in Profits:  Jan-2012   $1,926,159
+Greatest Decrease in Profits:  Aug-2013   $-2,196,167
